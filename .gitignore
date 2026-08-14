@@ -1,0 +1,27 @@
+# Python cache
+**/__pycache__/
+*.py[cod]
+
+# PyInstaller output and generated specifications
+**/build/
+**/dist/
+*.spec
+
+# Superseded theme assets kept locally until the host cleanup policy permits deletion
+猫猫跑路/assets/kitty_app.ico
+猫猫跑路/assets/kitty_banner.png
+猫猫跑路/assets/kitty_display.png
+猫猫跑路/assets/kitty_logo_circle.png
+米菲/assets/mifei_app.ico
+米菲/assets/mifei_banner.png
+米菲/assets/mifei_display.png
+米菲/assets/mifei_logo_circle.png
+
+# Local environment and logs
+.venv/
+venv/
+*.log
+
+# OS metadata
+Thumbs.db
+Desktop.ini
